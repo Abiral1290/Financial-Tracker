@@ -53,6 +53,8 @@ class _SignUpScreenState extends State<SignUpScreen>
           _emailController.text.trim(),
           _passwordController.text.trim(),
         );
+
+
         Navigator.push(
           context,
           MaterialPageRoute(

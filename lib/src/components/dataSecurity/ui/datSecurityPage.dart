@@ -16,6 +16,8 @@ class DataSecurityPage extends StatelessWidget {
             decoration: BoxDecoration(
               gradient: LinearGradient(
                 colors: [
+
+
                   Color(0xFF8A2387).withOpacity(0.9), // Purple
                   Color(0xFFE94057).withOpacity(0.8), // Reddish-pink
                   Color(0xFFF27121).withOpacity(0.7), // Orange
