@@ -5,6 +5,8 @@ class FinancialPage extends StatefulWidget {
   _InvestmentPageState createState() => _InvestmentPageState();
 }
 
+
+
 class _InvestmentPageState extends State<FinancialPage> {
   String dailyTip = "Invest consistently to take advantage of compounding."; // Example daily tip
 

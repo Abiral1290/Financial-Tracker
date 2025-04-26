@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class InvestmentPage extends StatelessWidget {
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -32,6 +33,7 @@ class InvestmentPage extends StatelessWidget {
                           color: Colors.grey[700],
                         ),
                       ),
+
                       SizedBox(height: 8),
                       Text(
                         '\$45,250.00',

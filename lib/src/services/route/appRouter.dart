@@ -26,6 +26,7 @@ class AppRouter {
           path: '/home',
           builder: (context, state) => HomeScreen(),
         ),
+
         GoRoute(
           path: '/datasecurity',
           builder: (context, state) => DataSecurityPage(),

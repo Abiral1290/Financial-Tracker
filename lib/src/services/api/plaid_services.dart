@@ -6,7 +6,13 @@ class YodleeService {
   // final String secretKey = 'YOUR_SECRET_KEY';  // Replace with your Secret Key
   final String baseUrl = 'https://developer.api.yodlee.com/ysl'; // Yodlee API base URL
 
+
+
+
   Future<String?> getAccessToken() async {
+    
+    
+    
     final url = Uri.parse('$baseUrl/auth/token');
     final response = await http.post(
       url,

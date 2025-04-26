@@ -96,6 +96,8 @@ class AuthenticationProvider with ChangeNotifier {
     notifyListeners();
   }
 
+
+
   // Function to save login state to SharedPreferences
   Future<void> saveLoginState(bool isLoggedIn) async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
