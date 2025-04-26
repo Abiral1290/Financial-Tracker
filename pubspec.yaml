@@ -49,6 +49,8 @@ dependencies:
   plaid_flutter:
   webview_flutter:
   shared_preferences:
+  sentry_flutter: ^8.14.2
+
 
 
 dev_dependencies:
