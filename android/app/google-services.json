@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608340786224",
+    "project_id": "fintechhackatho",
+    "storage_bucket": "fintechhackatho.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608340786224:android:81d2ee1a5bfaa9d46f81f5",
+        "android_client_info": {
+          "package_name": "com.example.fintechhackathonproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUGcYND4JoEfFJB25zw7u1fR__oIvAkr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
